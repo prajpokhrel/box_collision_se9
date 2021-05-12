@@ -14,6 +14,6 @@ Also, to calculate distance between two points, i have used **Pythagorean Theore
 
 **Stress Test 2:** Balls: 500 | Radius (in range): 5 to 20
 
-**Stress Test 1:** Balls: 250 | Radius (in range): 10 to 30
+**Stress Test 3:** Balls: 250 | Radius (in range): 10 to 30
   
 
